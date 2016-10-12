@@ -1,0 +1,54 @@
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Mini SO\Mini SO\bin\Debug\Mini SO.exe
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Mini SO\Mini SO\bin\Debug\Mini SO.pdb
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Mini SO\Mini SO\bin\Debug\Mini SO.xml
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Mini SO\Mini SO\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Mini SO\Mini SO\obj\x86\Debug\WindowsApplication1.Calculadora.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Mini SO\Mini SO\obj\x86\Debug\WindowsApplication1.Editor.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Mini SO\Mini SO\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Mini SO\Mini SO\obj\x86\Debug\WindowsApplication1.Navegador.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Mini SO\Mini SO\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Mini SO\Mini SO\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Mini SO\Mini SO\obj\x86\Debug\Mini SO.exe
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Mini SO\Mini SO\obj\x86\Debug\Mini SO.xml
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Mini SO\Mini SO\obj\x86\Debug\Mini SO.pdb
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Mini SO\Mini SO\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Mini SO\Mini SO\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Mini SO\Mini SO\obj\x86\Debug\WindowsApplication1.Gestor_de_descargas.resources
+C:\Users\Paulo\Desktop\Projects\Mini SO\Mini SO\obj\x86\Debug\Mini SO.exe
+C:\Users\Paulo\Desktop\Projects\Mini SO\Mini SO\obj\x86\Debug\Mini SO.xml
+C:\Users\Paulo\Desktop\Projects\Mini SO\Mini SO\obj\x86\Debug\Mini SO.pdb
+C:\Users\Paulo\Desktop\Projects\Mini SO\Mini SO\bin\Debug\Mini SO.exe
+C:\Users\Paulo\Desktop\Projects\Mini SO\Mini SO\bin\Debug\Mini SO.pdb
+C:\Users\Paulo\Desktop\Projects\Mini SO\Mini SO\bin\Debug\Mini SO.xml
+C:\Users\Paulo\Desktop\Projects\Mini SO\Mini SO\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paulo\Desktop\Projects\Mini SO\Mini SO\obj\x86\Debug\WindowsApplication1.Calculadora.resources
+C:\Users\Paulo\Desktop\Projects\Mini SO\Mini SO\obj\x86\Debug\WindowsApplication1.Editor.resources
+C:\Users\Paulo\Desktop\Projects\Mini SO\Mini SO\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Paulo\Desktop\Projects\Mini SO\Mini SO\obj\x86\Debug\WindowsApplication1.Gestor_de_descargas.resources
+C:\Users\Paulo\Desktop\Projects\Mini SO\Mini SO\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\Paulo\Desktop\Projects\Mini SO\Mini SO\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Paulo\Desktop\Projects\Mini SO\Mini SO\obj\x86\Debug\WindowsApplication1.Navegador.resources
+C:\Users\Paulo\Desktop\Projects\Mini SO\Mini SO\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paulo\Desktop\Projects\Mini SO\Mini SO\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paulo\Desktop\Mini S.O sferal\Mini SO\Mini SO\obj\x86\Debug\Mini SO.exe
+C:\Users\Paulo\Desktop\Mini S.O sferal\Mini SO\Mini SO\obj\x86\Debug\Mini SO.xml
+C:\Users\Paulo\Desktop\Mini S.O sferal\Mini SO\Mini SO\obj\x86\Debug\Mini SO.pdb
+C:\Users\Paulo\Desktop\Mini S.O sferal\Mini SO\Mini SO\bin\Debug\Mini SO.exe
+C:\Users\Paulo\Desktop\Mini S.O sferal\Mini SO\Mini SO\bin\Debug\Mini SO.pdb
+C:\Users\Paulo\Desktop\Mini S.O sferal\Mini SO\Mini SO\bin\Debug\Mini SO.xml
+C:\Users\Paulo\Desktop\Mini S.O sferal\Mini SO\Mini SO\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Paulo\Desktop\Mini S.O sferal\Mini SO\Mini SO\obj\x86\Debug\WindowsApplication1.Calculadora.resources
+C:\Users\Paulo\Desktop\Mini S.O sferal\Mini SO\Mini SO\obj\x86\Debug\WindowsApplication1.Editor.resources
+C:\Users\Paulo\Desktop\Mini S.O sferal\Mini SO\Mini SO\obj\x86\Debug\WindowsApplication1.Sferal.resources
+C:\Users\Paulo\Desktop\Mini S.O sferal\Mini SO\Mini SO\obj\x86\Debug\WindowsApplication1.Gestor_de_descargas.resources
+C:\Users\Paulo\Desktop\Mini S.O sferal\Mini SO\Mini SO\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\Paulo\Desktop\Mini S.O sferal\Mini SO\Mini SO\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Paulo\Desktop\Mini S.O sferal\Mini SO\Mini SO\obj\x86\Debug\WindowsApplication1.Navegador.resources
+C:\Users\Paulo\Desktop\Mini S.O sferal\Mini SO\Mini SO\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Paulo\Desktop\Mini S.O sferal\Mini SO\Mini SO\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Paulo\Desktop\Paulo\Programacion\Mini S.O sferal\Mini SO\Mini SO\obj\x86\Debug\Mini SO.exe
+C:\Users\Paulo\Desktop\Paulo\Programacion\Mini S.O sferal\Mini SO\Mini SO\obj\x86\Debug\Mini SO.xml
+C:\Users\Paulo\Desktop\Paulo\Programacion\Mini S.O sferal\Mini SO\Mini SO\obj\x86\Debug\Mini SO.pdb
+C:\Users\Paulo\Google Drive\Programacion en C\Programacion Visual basic\Mini S.O sferal\Mini SO\Mini SO\obj\x86\Debug\Mini SO.exe
+C:\Users\Paulo\Google Drive\Programacion en C\Programacion Visual basic\Mini S.O sferal\Mini SO\Mini SO\obj\x86\Debug\Mini SO.xml
+C:\Users\Paulo\Google Drive\Programacion en C\Programacion Visual basic\Mini S.O sferal\Mini SO\Mini SO\obj\x86\Debug\Mini SO.pdb

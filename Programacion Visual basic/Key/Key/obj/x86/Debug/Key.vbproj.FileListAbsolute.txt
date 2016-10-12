@@ -1,0 +1,29 @@
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Key\Key\bin\Debug\Key.exe
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Key\Key\bin\Debug\Key.pdb
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Key\Key\bin\Debug\Key.xml
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Key\Key\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Key\Key\obj\x86\Debug\Key.Form1.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Key\Key\obj\x86\Debug\Key.Resources.resources
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Key\Key\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Key\Key\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Key\Key\obj\x86\Debug\Key.exe
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Key\Key\obj\x86\Debug\Key.xml
+C:\Documents and Settings\Administrador\mis documentos\visual studio 2010\Projects\Key\Key\obj\x86\Debug\Key.pdb
+C:\Users\Paulo\Google Drive\Programacion en C\Programacion Visual basic\Mini S.O sferal\Key\Key\obj\x86\Debug\Key.exe
+C:\Users\Paulo\Google Drive\Programacion en C\Programacion Visual basic\Mini S.O sferal\Key\Key\obj\x86\Debug\Key.xml
+C:\Users\Paulo\Google Drive\Programacion en C\Programacion Visual basic\Mini S.O sferal\Key\Key\obj\x86\Debug\Key.pdb
+C:\Users\Paulo\Google Drive\Programacion en C\Programacion Visual basic\Mini S.O sferal\Key\Key\bin\Debug\Key.exe
+C:\Users\Paulo\Google Drive\Programacion en C\Programacion Visual basic\Mini S.O sferal\Key\Key\bin\Debug\Key.pdb
+C:\Users\Paulo\Google Drive\Programacion en C\Programacion Visual basic\Mini S.O sferal\Key\Key\bin\Debug\Key.xml
+C:\Users\Paulo\Google Drive\Programacion en C\Programacion Visual basic\Mini S.O sferal\Key\Key\obj\x86\Debug\Key.Form1.resources
+C:\Users\Paulo\Google Drive\Programacion en C\Programacion Visual basic\Mini S.O sferal\Key\Key\obj\x86\Debug\Key.Resources.resources
+C:\Users\Paulo\Google Drive\Programacion en C\Programacion Visual basic\Mini S.O sferal\Key\Key\obj\x86\Debug\Key.vbproj.GenerateResource.Cache
+C:\Users\Paulo\Google Drive\Programacion en C\Programacion Visual basic\Key\Key\obj\x86\Debug\Key.exe
+C:\Users\Paulo\Google Drive\Programacion en C\Programacion Visual basic\Key\Key\obj\x86\Debug\Key.xml
+C:\Users\Paulo\Google Drive\Programacion en C\Programacion Visual basic\Key\Key\obj\x86\Debug\Key.pdb
+C:\Users\Paulo\Google Drive\Programacion en C\Programacion Visual basic\Key\Key\obj\x86\Debug\Key.Form1.resources
+C:\Users\Paulo\Google Drive\Programacion en C\Programacion Visual basic\Key\Key\obj\x86\Debug\Key.Resources.resources
+C:\Users\Paulo\Google Drive\Programacion en C\Programacion Visual basic\Key\Key\obj\x86\Debug\Key.vbproj.GenerateResource.Cache
+C:\Users\Paulo\Google Drive\Programacion en C\Programacion Visual basic\Key\Key\bin\Debug\Key.exe
+C:\Users\Paulo\Google Drive\Programacion en C\Programacion Visual basic\Key\Key\bin\Debug\Key.pdb
+C:\Users\Paulo\Google Drive\Programacion en C\Programacion Visual basic\Key\Key\bin\Debug\Key.xml

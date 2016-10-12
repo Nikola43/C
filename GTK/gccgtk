@@ -1,0 +1,8 @@
+#/bin/bash
+output=".out"
+gcc $1 -o $1$output `pkg-config --cflags --libs gtk+-2.0`
+if [ $? -eq 0 ]; then
+  echo "Compilacion correcta."
+else
+  echo "Compilacion fallida."
+fi
