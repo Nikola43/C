@@ -132,11 +132,13 @@ int argvControl(int argc, char *argv[], char *port, char *baud, char *writeData)
                      writeData = argv[argcCounter + 1];
                      status = 0;
                  }
+                 printf("PORT: '%s'   BAUD: '%s'    DATA: '%s'\n", port, baud, writeData);
              }
     else
     {
         printf( "%s\n", NO_ARGS );
         status = -1;
     }
+    //printf("PORT: '%s'   BAUD: '%s'    DATA: '%s'\n", port, baud, writeData);
     return(status);
 }
